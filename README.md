@@ -2,7 +2,7 @@
 
 wc_loader es un componente de JS que se puede aplicar a un proyecto para simular la carga de una página.
 
-[![image](https://user-images.githubusercontent.com/78848226/180852704-f71171c7-66e5-4f23-bd94-83dd6c77a0c0.png)](https://newprojectf.github.io/)
+[![image](https://user-images.githubusercontent.com/78848226/180853043-66e3414f-5b7a-41f3-8b2b-d8732f1329fd.png)](https://newprojectf.github.io/)
 
 ## ATRIBUTOS ADMITIDOS 👍
 
