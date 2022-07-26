@@ -7,7 +7,7 @@ wc_loader es un componente de JS que se puede aplicar a un proyecto para simular
 
 ## COMO USARLO 💻
 
-1. Descárgese el Web Component.
+1. Descárguese el Web Component.
 2. Agregue el Web Component a su proyecto.
 3. Enlace el JS del Web Component al archivo HTML de su proyecto. **\<script src="wc-loader.js"\>\</script\>**.
 4. Añada la etiqueta **\<wc-loader\>\</wc-loader\>** en el apartado del HTML donde lo quiera usar y ¡listo! Ya funcionaría.
